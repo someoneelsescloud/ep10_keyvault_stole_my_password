@@ -7,10 +7,10 @@ See [ep4_azure_lab_terraform/scripts](https://github.com/someoneelsescloud/ep4_a
 
 |Name|Description|
 |---|---|
-|.\scripts\Create-TFServicePrincipal|Create Service Principal for Terraform (refactored to use Az module)|
+|.\scripts\Create-TFServicePrincipal|Create Service Principal for Terraform (refactored to use Az module and created providers.tf for AzureRM provider authentication)|
 |.\scripts\Install-Terraform|Downloading and configure Terraform open source|
-|.\scripts\ExportKVpfx\Export PFX certficate from Azure KeyVault and Set the Password|
-|.\scripts\CreateKVAccess\This will create an Azure KeyVault Policy in Terraform. Uses PowerShell to get your logged in ObjectID|
+|.\scripts\ExportKVpfx|Export PFX certficate from Azure KeyVault and Set the Password with a retrieved secret |
+|.\scripts\CreateKVAccess|This will create an Azure KeyVault Policy in Terraform. Uses PowerShell to get your logged in ObjectID|
 
 ## KeyVault Deployment
 The code examples will allow you to use Terraform and deploy the resources for this episode.
