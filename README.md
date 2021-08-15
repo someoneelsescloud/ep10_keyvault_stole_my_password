@@ -1,4 +1,4 @@
-# EP10 - Azure KeyVault Stole My Password!
+# EP10: Azure KeyVault Stole My Password!
 In this episode, I talk about how Azure Key Vault handles SSL certificates and show you how to export your PFX certificate and set the password again.
 This will definitely save you time, if you plan on automating certificate management!
 
