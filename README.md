@@ -2,7 +2,7 @@
 In this episode, I talk about how Azure Key Vault handles SSL certificates and show you how to export your PFX certificate and set the password again.
 This will definitely save you time, if you plan on automating certificate management!
 
-**You can now show your appreciation and support the channel****: https://www.buymeacoffee.com/some1elsescloud
+**You can now show your appreciation and support the channel**: https://www.buymeacoffee.com/some1elsescloud
 
 - **Watch the Full Episode on YouTube**: https://youtu.be/HwS8b-E_Wy4
 - **Download Someone Else's Cloud Wallpapers!** Add some vibrant colours and positive energy to your Work from Home environment to keep you amped! ✌️ https://www.someoneelsescloud.com/episodes/download-desktop-wallpapers
