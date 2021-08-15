@@ -4,7 +4,7 @@ This will definitely save you time, if you plan on automating certificate manage
 
 **You can now show your appreciation and support the channel****: https://www.buymeacoffee.com/some1elsescloud
 
-- **Watch the Full Episode on YouTube**: https://youtu.be/yuM0O5ejbiw
+- **Watch the Full Episode on YouTube**: https://youtu.be/HwS8b-E_Wy4
 - **Download Someone Else's Cloud Wallpapers!** Add some vibrant colours and positive energy to your Work from Home environment to keep you amped! ✌️ https://www.someoneelsescloud.com/episodes/download-desktop-wallpapers
 - **Check out the blog on the website**: https://www.someoneelsescloud.com/episodes/ep10-azure-keyvault-stole-my-password
 
